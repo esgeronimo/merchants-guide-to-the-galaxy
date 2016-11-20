@@ -1,8 +1,8 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy.interpreter;
+package com.eugenegeronimo.merchantsguidetogalaxy.interpreter;
 
-import com.thoughtworks.problems.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
-import com.thoughtworks.problems.merchantsguidetogalaxy.information.CreditRate;
-import com.thoughtworks.problems.merchantsguidetogalaxy.information.CreditRateMemory;
+import com.eugenegeronimo.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
+import com.eugenegeronimo.merchantsguidetogalaxy.information.CreditRate;
+import com.eugenegeronimo.merchantsguidetogalaxy.information.CreditRateMemory;
 
 /**
  * Created by esgeronimo on 9/19/2015.

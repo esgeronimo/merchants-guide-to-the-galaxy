@@ -1,4 +1,4 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy;
+package com.eugenegeronimo.merchantsguidetogalaxy;
 
 import java.io.IOException;
 import java.nio.charset.Charset;

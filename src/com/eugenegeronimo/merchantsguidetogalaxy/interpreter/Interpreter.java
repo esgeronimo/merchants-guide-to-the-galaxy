@@ -1,4 +1,4 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy.interpreter;
+package com.eugenegeronimo.merchantsguidetogalaxy.interpreter;
 
 /**
  * Created by esgeronimo on 9/19/2015.

@@ -1,8 +1,8 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy;
+package com.eugenegeronimo.merchantsguidetogalaxy;
 
-import com.thoughtworks.problems.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
-import com.thoughtworks.problems.merchantsguidetogalaxy.information.CreditRateMemory;
-import com.thoughtworks.problems.merchantsguidetogalaxy.interpreter.*;
+import com.eugenegeronimo.merchantsguidetogalaxy.information.CreditRateMemory;
+import com.eugenegeronimo.merchantsguidetogalaxy.interpreter.*;
+import com.eugenegeronimo.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
 
 import java.util.ArrayList;
 import java.util.HashMap;

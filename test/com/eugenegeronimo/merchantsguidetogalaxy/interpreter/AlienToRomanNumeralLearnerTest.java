@@ -1,6 +1,6 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy.interpreter;
+package com.eugenegeronimo.merchantsguidetogalaxy.interpreter;
 
-import com.thoughtworks.problems.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
+import com.eugenegeronimo.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

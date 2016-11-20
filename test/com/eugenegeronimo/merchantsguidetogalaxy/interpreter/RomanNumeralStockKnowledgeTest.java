@@ -1,4 +1,4 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy.interpreter;
+package com.eugenegeronimo.merchantsguidetogalaxy.interpreter;
 
 import org.junit.Assert;
 import org.junit.Before;

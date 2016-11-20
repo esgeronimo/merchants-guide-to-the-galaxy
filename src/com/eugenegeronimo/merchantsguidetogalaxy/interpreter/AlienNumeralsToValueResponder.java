@@ -1,8 +1,6 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy.interpreter;
+package com.eugenegeronimo.merchantsguidetogalaxy.interpreter;
 
-import com.thoughtworks.problems.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
-
-import java.util.regex.Pattern;
+import com.eugenegeronimo.merchantsguidetogalaxy.information.AlienToRomanNumeralMemory;
 
 /**
  * Created by esgeronimo on 9/20/2015.

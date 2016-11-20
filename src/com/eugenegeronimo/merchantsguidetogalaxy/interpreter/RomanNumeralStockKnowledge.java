@@ -1,4 +1,4 @@
-package com.thoughtworks.problems.merchantsguidetogalaxy.interpreter;
+package com.eugenegeronimo.merchantsguidetogalaxy.interpreter;
 
 import java.util.HashMap;
 import java.util.Map;
